@@ -1,0 +1,33 @@
+
+---
+
+## 📚 Data Source
+
+The dataset was downloaded from:  
+[Football Data — European Top 5 Leagues (Kaggle)](https://www.kaggle.com/datasets/kamrangayibov/football-data-european-top-5-leagues?resource=download)
+
+---
+
+## ⚙️ Tools & Environment
+
+- **MS Access** – used to build and prepare the database
+- **MS SQL Server** – used for data querying and analysis
+
+---
+
+## 📈 Sample Analyses
+
+- Ranking of teams by home and away performance
+- Weekly team form tracking
+- Comparison of leagues based on average goals and match results
+- Relationship between wins and stats like shots or fouls
+
+---
+
+## 🗂️ Repository Contents
+
+- **SQL queries** — located in the `queries/` folder, designed for execution in MS SQL Server.
+- **Analysis results** — available in the `results/` folder in spreadsheet format.
+- **Source tables** — full set of original tables used for the database, stored in `data/` as XLSX files.
+
+---
